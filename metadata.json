@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Triples AI Coach",
+  "description": "A smart kiosk app for triathlon analysis, gear recommendation, and race strategy using AI Vision.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
